@@ -1,6 +1,6 @@
 # Dash Roadmap
 
-Welcome to the public roadmap for Dash, the all-in-one platform built to simplify deployments and elevate the developer experience.
+Welcome to the public roadmap for [Dash](https://dash.resiz.es/signup), the all-in-one platform built to simplify deployments and elevate the developer experience.
 
 This repository provides visibility into what's in progress, what's planned, and what's being considered for the future. It serves as a space for discussion, feedback, and community input to shape Dash’s development priorities.
 
